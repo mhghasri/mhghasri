@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohammad hossein and I'm a Backend developer, from Iran.</p>
+<p align="left">I'm Mohammad Hossein, a backend developer from Iran 🇮🇷, who loves coding and building awesome stuff! 😄</p>
 
 ###
 
