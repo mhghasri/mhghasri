@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Django Junior Developer  <br>🐍 Python, MySQL & PostgreSQL Enthusiast  <br>🛠 Focused on creating efficient web apps  <br>🧹 Passionate about writing clean, maintainable code  <br>🧩 Enjoy tackling real-world problems with creative solutions  <br>💡 Remember: Every bug you fix takes you one step closer to mastery!</p>
+<p align="left">🚀 Django Developer  <br>🐍 Python, MySQL & PostgreSQL Enthusiast  <br>🛠 Focused on creating efficient web apps  <br>🧹 Passionate about writing clean, maintainable code  <br>🧩 Enjoy tackling real-world problems with creative solutions  <br>💡 Remember: Every bug you fix takes you one step closer to mastery!</p>
 
 ###
 
